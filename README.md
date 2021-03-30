@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @monika200
-- 👀 I’m interested in FULLSTACK DEVELOPMENT.
-- 🌱 I’m currently learning MERN STACK FROM GUVI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a FULLSTACK DEVELOPER.
+- 🌱 I’m currently learning MERN STACK FROM GUVI ZEN.
+
 
 <!---
 monika200/monika200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
