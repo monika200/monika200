@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @monika200
+-    I'm a Computer Science Engineer.
 - 👀 I’m a FULLSTACK DEVELOPER.
 - 🌱 I’m currently learning MERN STACK FROM GUVI ZEN.
 
