@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monika200
 - 👀 I’m interested in FULLSTACK DEVELOPMENT.
-- 🌱 I’m currently learning FULLSTACK FROM GUVI
+- 🌱 I’m currently learning MERN STACK FROM GUVI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
