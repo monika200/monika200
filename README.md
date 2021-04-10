@@ -1,5 +1,5 @@
 
-![profile-image](https://i.ibb.co/6Z8WqXd/Screenshot-153.png)
+![profile-image]("https://i.ibb.co/3BfY0zC/Capture.png")
 
 #### I'm from Mumbai, Maharastra, I try to write code 💻 and solve problems .
 
