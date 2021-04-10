@@ -1,5 +1,5 @@
 
-![profile-image]("https://i.ibb.co/3BfY0zC/Capture.png")
+![Capture](https://user-images.githubusercontent.com/63012770/114268636-b9fd9700-9a1f-11eb-849b-b3d9e256f152.PNG)
 
 #### I'm from Mumbai, Maharastra, I try to write code 💻 and solve problems .
 
